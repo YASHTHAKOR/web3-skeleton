@@ -1,0 +1,6 @@
+.app-background {
+  height: 100%;
+  width: 100%;
+  min-height: 100vh;
+  background: radial-gradient(93.43% 93.43% at 3.16% 17.73%, rgba(54, 195, 255, 0.2) 0%, rgba(0, 0, 0, 0) 100%), radial-gradient(125.46% 155.93% at 83.37% 24.25%, rgba(18, 198, 255, 0.2) 0%, rgba(0, 0, 0, 0) 50.08%), radial-gradient(23.26% 45.03% at 96.49% 18.7%, rgba(0, 255, 255, 0.2) 0%, rgba(0, 0, 0, 0) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #151515;
+}
